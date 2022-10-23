@@ -9,3 +9,5 @@ console.log ("Myltiplication opp: " + multiplication(8, 4));
 
 console.log ("Myltiplication opp: " + multiplication(7, 7));
 console.log("Sum is: " + sum(9, 9));
+
+console.log("Sum is: " + sum(1, 11));
